@@ -1,0 +1,8 @@
+"No.","Time","Source","Destination","Protocol","Length","Info"
+"1745","152.440718","192.168.0.89","224.0.0.251","MDNS","130","Standard query 0x0000 PTR _companion-link._tcp.local, ""QU"" question PTR _homekit._tcp.local, ""QU"" question OPT"
+"1747","152.526693","192.168.0.222","192.168.0.89","MDNS","395","Standard query response 0x0000 PTR Jefrinâ\200\231s MacBook Pro._companion-link._tcp.local SRV, cache flush 0 0 50420 Jefrins-MacBook-Pro.local TXT, cache flush TXT AAAA, cache flush fe80::c9d:285:228d:b204 A, cache flush 192.168.0.222"
+"1773","153.464499","192.168.0.89","224.0.0.251","IGMPv2","46","Membership Report group 224.0.0.251"
+"1788","153.567382","192.168.0.89","224.0.0.251","MDNS","167","Standard query 0x0000 PTR _companion-link._tcp.local, ""QM"" question PTR _homekit._tcp.local, ""QM"" question PTR Jefrinâ\200\231s MacBook Pro._companion-link._tcp.local OPT"
+"1839","156.639091","192.168.0.89","224.0.0.251","MDNS","108","Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question OPT"
+"2183","165.650435","192.168.0.89","224.0.0.251","MDNS","108","Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question OPT"
+"5337","192.684482","192.168.0.89","224.0.0.251","MDNS","108","Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question OPT"
